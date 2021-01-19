@@ -16,12 +16,10 @@ namespace TipCalculator {
 
             var TotalTip = ( total * tip)/100;
 
-            TxtTip.Detail = TotalTip.ToString();
+            TxtTip.Detail = TotalTip.ToString("C");
             TxtTotalBill.Detail = (TotalTip + total).ToString("C");
             TxtTotaTipPerPerson.Detail = (TotalTip / NumberOfPeople).ToString("C");
             TxtTotalPerson.Detail = ((total + TotalTip) / NumberOfPeople).ToString("C");
-
-
         }
     }
 }

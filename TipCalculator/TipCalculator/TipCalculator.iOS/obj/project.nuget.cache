@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "4qYXvQBSwYH+9UQRnbd7a5+Ll6zswVeQ948T0B8V2gDdycDFK+E0IULIXXW/IsBV+qRyz5ABZiNMBeCt64KiQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\egome\\Documents\\GitRepos\\TipCalculator\\TipCalculator\\TipCalculator\\TipCalculator.iOS\\TipCalculator.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\egome\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\egome\\.nuget\\packages\\xamarin.essentials\\1.6.0\\xamarin.essentials.1.6.0.nupkg.sha512",
+    "C:\\Users\\egome\\.nuget\\packages\\xamarin.forms\\5.0.0.1874\\xamarin.forms.5.0.0.1874.nupkg.sha512",
+    "C:\\Users\\egome\\.nuget\\packages\\xamarin.forms.visual.material\\5.0.0.1874\\xamarin.forms.visual.material.5.0.0.1874.nupkg.sha512",
+    "C:\\Users\\egome\\.nuget\\packages\\xamarin.ios.materialcomponents\\92.0.0\\xamarin.ios.materialcomponents.92.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

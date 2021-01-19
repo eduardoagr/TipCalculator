@@ -1,0 +1,1 @@
+C:\Users\egome\Documents\GitRepos\TipCalculator\TipCalculator\TipCalculator\TipCalculator.UWP\TipCalculator.UWP.csproj;x86
